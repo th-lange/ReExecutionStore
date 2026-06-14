@@ -64,18 +64,15 @@ tickets/
 
 ### Ready — SnapReq (7)
 
-> **Note:** create the matching GitHub issues in `th-lange/snapreq` (enable Issues on that repo
-> first if needed), then fill in the Issue column.
-
 | Ticket | Title | Spec | Issue |
 |---|---|---|---|
-| TICKET-019 | Project Scaffold & Go Module | [spec](tickets/snapreq/TICKET-019-project-scaffold-go-module.md) | — |
-| TICKET-020 | Config Package | [spec](tickets/snapreq/TICKET-020-config-package.md) | — |
-| TICKET-021 | Ingest Payload (Shared Contract) | [spec](tickets/snapreq/TICKET-021-ingest-payload.md) | — |
-| TICKET-022 | Body Buffering | [spec](tickets/snapreq/TICKET-022-body-buffering.md) | — |
-| TICKET-023 | Ingest Client (Fire-and-Forget) | [spec](tickets/snapreq/TICKET-023-ingest-client.md) | — |
-| TICKET-024 | Forward Client & Capture Handler | [spec](tickets/snapreq/TICKET-024-forward-client-capture-handler.md) | — |
-| TICKET-025 | Main Entrypoint & Integration Tests | [spec](tickets/snapreq/TICKET-025-main-entrypoint-integration-tests.md) | — |
+| TICKET-019 | Project Scaffold & Go Module | [spec](tickets/snapreq/TICKET-019-project-scaffold-go-module.md) | [#1](https://github.com/th-lange/snapreq/issues/1) |
+| TICKET-020 | Config Package | [spec](tickets/snapreq/TICKET-020-config-package.md) | [#2](https://github.com/th-lange/snapreq/issues/2) |
+| TICKET-021 | Ingest Payload (Shared Contract) | [spec](tickets/snapreq/TICKET-021-ingest-payload.md) | [#3](https://github.com/th-lange/snapreq/issues/3) |
+| TICKET-022 | Body Buffering | [spec](tickets/snapreq/TICKET-022-body-buffering.md) | [#4](https://github.com/th-lange/snapreq/issues/4) |
+| TICKET-023 | Ingest Client (Fire-and-Forget) | [spec](tickets/snapreq/TICKET-023-ingest-client.md) | [#5](https://github.com/th-lange/snapreq/issues/5) |
+| TICKET-024 | Forward Client & Capture Handler | [spec](tickets/snapreq/TICKET-024-forward-client-capture-handler.md) | [#6](https://github.com/th-lange/snapreq/issues/6) |
+| TICKET-025 | Main Entrypoint & Integration Tests | [spec](tickets/snapreq/TICKET-025-main-entrypoint-integration-tests.md) | [#7](https://github.com/th-lange/snapreq/issues/7) |
 
 ### In progress / In review / Backlog
 
